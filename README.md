@@ -4,23 +4,11 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/aditiblji" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">Hey there 👋, I am Aditi Balaji</h1>
 
 ###
 
 <h3 align="left">👨‍💻 Developer. 📕 Learner. 🔍 Fueled by curiosity and creativity.</h3>
-
-###
-
-<p align="left">- 🔭 I’m a student working on different Projects<br>- 📚 I'm currently learning Machine Learning<br>- 💻 Currently working on NLP projects<br>- 🏫 Studying BCA hons. at Chanakya University, Bangalore</p>
 
 ###
 
@@ -48,6 +36,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+###
+
+<p align="left">- 🔭 I’m a student working on different Projects<br>- 📚 I'm currently learning Machine Learning<br>- 💻 Currently working on NLP projects<br>- 🏫 Studying BCA hons. at Chanakya University, Bangalore<br>- ✉️ Contact me at: aditibala6634@gmail.com</p>
+
+###
+
+<h3 align="left">✉️ Connect with me at:</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/aditiblji" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/aditiblji/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
