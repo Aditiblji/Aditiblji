@@ -41,6 +41,7 @@
 ###
 
 <p align="left">- 🔭 I’m a student working on different Projects<br>- 📚 I'm currently learning Machine Learning<br>- 💻 Currently working on NLP projects<br>- 🏫 Studying BCA hons. at Chanakya University, Bangalore<br>- ✉️ Contact me at: aditibala6634@gmail.com</p>
+<h3>📖Link to my Portfolio: </h3> https://aditibalajiportfolio.netlify.app/ <br>
 
 ###
 
@@ -56,6 +57,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
 </div>
+
+
 
 ###
 
